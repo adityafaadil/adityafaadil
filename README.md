@@ -10,6 +10,11 @@
   <img alt="fadil's most used languages" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fadil-21&layout=compact&theme=radical&hide=shards,shaderlab,hlsl,html,css&langs_count=6" />
 </a>
 
+<img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;
+<img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />&nbsp;&nbsp;
+<img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />&nbsp;&nbsp;
+<img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />&nbsp;&nbsp;
+
 
 <!--**fadil-21/fadil-21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
