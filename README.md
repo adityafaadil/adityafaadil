@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-**fadil-21/fadil-21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--**fadil-21/fadil-21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started:-->
 
 ### I'm a Single Fighter Developer!
 - 🔭 I’m currently working on a ton of side project!
