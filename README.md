@@ -3,6 +3,14 @@
 </div>
 
 
+## 📊️&nbsp;Github Stats
+
+<a href="https://github.com/fadil-21">
+  <img alt="Kevin's all Git commits" height="180em" src="https://github-readme-stats.vercel.app/api?username=fadil-21&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
+  <img alt="Kevin's most used languages" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fadil-21&layout=compact&theme=vue-dark&hide=shards,shaderlab,hlsl,html,css&langs_count=6" />
+</a>
+
+
 <!--**fadil-21/fadil-21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:-->
