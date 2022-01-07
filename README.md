@@ -10,10 +10,14 @@
   <img alt="fadil's most used languages" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fadil-21&layout=compact&theme=radical&hide=shards,shaderlab,hlsl,html,css&langs_count=6" />
 </a>
 
-<img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;
-<img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />&nbsp;&nbsp;
-<img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />&nbsp;&nbsp;
-<img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />&nbsp;&nbsp;
+## 🛠 Tech. Stacks & Tools
+
+### Languages :
+
+<img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;&nbsp;
+<img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />&nbsp;&nbsp;
+<img alt="HTML" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
+<img alt="CSS" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
 
 
 <!--**fadil-21/fadil-21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
