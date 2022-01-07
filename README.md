@@ -25,6 +25,7 @@
 Here are some ideas to get you started:-->
 
 ### I'm a Single Fighter Developer!
+
 - 🔭 I’m currently working on a ton of side project!
 - 🌱 I’m currently learning about Python, Machine Learning, and Flutter
 - 👯 I’m looking to collaborate with other developer
