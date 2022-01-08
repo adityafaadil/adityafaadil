@@ -35,7 +35,6 @@ Here are some ideas to get you started:-->
 ### 📊 Weekly development breakdown
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-24-blue)
 <!--END_SECTION:waka-->
 
 ### 📫 Contact Me
