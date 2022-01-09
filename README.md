@@ -34,7 +34,12 @@ Here are some ideas to get you started:-->
 
 ### 📊 Weekly development breakdown
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fadil21&langs_count=8)](https://github.com/fadil-21/github-readme-stats)
+<a href="https://github.com/fadil-21/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fadil21&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/fadil-21/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fadil21&repo=convoychat" />
+</a>
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
