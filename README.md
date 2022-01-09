@@ -34,12 +34,7 @@ Here are some ideas to get you started:-->
 
 ### 📊 Weekly development breakdown
 
-<a href="https://github.com/fadil-21/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fadil21&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/fadil-21/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fadil21&repo=convoychat" />
-</a>
+[![fadil's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fadil21)](https://github.com/fadil-21/github-readme-stats)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
