@@ -34,7 +34,7 @@ Here are some ideas to get you started:-->
 
 ### 📊 Weekly development breakdown
 
-[![fadil's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fadil21)](https://github.com/fadil-21/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fadil21&langs_count=8)](https://github.com/fadil-21/github-readme-stats)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
