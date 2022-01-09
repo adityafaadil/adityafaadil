@@ -39,6 +39,22 @@ Here are some ideas to get you started:-->
 [![fadil's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fadil21)](https://github.com/fadil-21/github-readme-stats)
 
 <!--START_SECTION:waka-->
+⌚︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+PHP                      1 hr 16 mins        ███████████░░░░░░░░░░░░░░   45.46% 
+TypeScript               36 mins             █████░░░░░░░░░░░░░░░░░░░░   21.88% 
+Blade Template           21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.13% 
+Apache Config            16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.59% 
+HTML                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.41%
+
+🔥 Editors: 
+VS Code                  1 hr 51 mins        ████████████████░░░░░░░░░   66.45% 
+Sublime Text             56 mins             ████████░░░░░░░░░░░░░░░░░   33.55%
+
+💻 Operating System: 
+Linux                    2 hrs 47 mins       █████████████████████████   100.0%
+
 <!--END_SECTION:waka-->
 
 ### 📫 Contact Me
