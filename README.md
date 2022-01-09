@@ -10,6 +10,14 @@
   <img alt="fadil's most used languages" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fadil-21&layout=compact&theme=radical&hide=shards,shaderlab,hlsl,html,css&langs_count=6" />
 </a>
 
+### I'm a Single Fighter Developer!
+
+- 🔭 I’m currently working on a ton of side project!
+- 🌱 I’m currently learning about Python, Machine Learning, and Flutter
+- 👯 I’m looking to collaborate with other developer
+- 🥅 2022 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love travelling, gaming, and finding bug and create unfinished side project 
+
 ## 🛠 Tech. Stacks & Tools
 
 ### Languages :
@@ -26,15 +34,8 @@
 
 Here are some ideas to get you started:-->
 
-### I'm a Single Fighter Developer!
-
-- 🔭 I’m currently working on a ton of side project!
-- 🌱 I’m currently learning about Python, Machine Learning, and Flutter
-- 👯 I’m looking to collaborate with other developer
-- 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love travelling, gaming, and finding bug and create unfinished side project 
-
 ### 📊 Weekly development breakdown
+## will show soon!
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
