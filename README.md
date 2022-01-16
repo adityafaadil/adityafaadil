@@ -47,7 +47,6 @@
 <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />&nbsp;&nbsp;
 
 ### 📊 Weekly development breakdown
-## will show soon!
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
