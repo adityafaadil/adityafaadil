@@ -2,7 +2,7 @@
   <h2>Hi there! I'm Fadil 👋</h2>
 </div>
 
-<img src="http://www.escueladevrock.com/">
+<img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif">
 
 
 ## 📊️&nbsp;Github Stats
