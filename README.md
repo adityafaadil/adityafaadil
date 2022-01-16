@@ -3,9 +3,9 @@
 </div>
 
 <div>
-<img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="300" height="300">
-<img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="300" height="300">
-<img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="300" height="300">
+<img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="100" height="100">
+<img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="100" height="100">
+<img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="100" height="100">
 </div>
 
 
