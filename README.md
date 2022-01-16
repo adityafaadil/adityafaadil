@@ -2,8 +2,10 @@
   <h2>Hi there! I'm Fadil 👋</h2>
 </div>
 
+<div>
 <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="300" height="300">
 <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="300" height="300">
+</div>
 
 
 ## 📊️&nbsp;Github Stats
