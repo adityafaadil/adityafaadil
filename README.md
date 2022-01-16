@@ -2,7 +2,9 @@
   <h1>Hi there! I'm Fadil 👋</h1>
 </div>
 
-<img src="https://media.giphy.com/media/l3OwBXk83UiCVGdjLy/giphy.gif" align="center">
+<div align="center">
+  <img src="https://media.giphy.com/media/l3OwBXk83UiCVGdjLy/giphy.gif" align="center">
+</div>
 
 ## Powered by :
 <div align="center">
