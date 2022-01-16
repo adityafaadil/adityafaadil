@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there! I'm Fadil 👋</h1>
-   <img src="https://tenor.com/bhOSD.gif" width="100" height="100">
+   <img src="https://tenor.com/view/kitten-cat-typing-typing-cat-thank-goodness-gif-16601149" width="100" height="100">
 </div>
 
 ## Powered by :
