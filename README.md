@@ -2,7 +2,7 @@
   <h1>Hi there! I'm Fadil 👋</h1>
 </div>
 
-<img src="https://tenor.com/bhOSD.gif">
+<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif">
 
 ## Powered by :
 <div align="center">
