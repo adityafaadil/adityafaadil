@@ -3,6 +3,7 @@
 </div>
 
 <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif">
+<img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif">
 
 
 ## 📊️&nbsp;Github Stats
