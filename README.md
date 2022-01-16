@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/iPj5oRtJzQGxwzuCKV/giphy.gif" align="center">
+  <img src="https://news.microsoft.com/wp-content/uploads/2017/02/output_wgZdRV.gif" align="center">
 </div>
 
 ## Powered by :
