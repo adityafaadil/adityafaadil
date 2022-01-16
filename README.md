@@ -2,6 +2,8 @@
   <h2>Hi there! I'm Fadil 👋</h2>
 </div>
 
+<img src="http://www.escueladevrock.com/">
+
 
 ## 📊️&nbsp;Github Stats
 
@@ -29,10 +31,6 @@
 <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
 <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
 <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />&nbsp;&nbsp;
-
-<!--**fadil-21/fadil-21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:-->
 
 ### 📊 Weekly development breakdown
 ## will show soon!
