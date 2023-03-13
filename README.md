@@ -14,7 +14,7 @@
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love travelling, gaming, and finding bug and create unfinished side project 
 
-## Powered by :
+## 🛠 Tech. Stacks & Tools
 <div align="center">
   <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="100" height="100">
   <img src="https://media.giphy.com/media/UQJlZ2OcaCA2RLfGiZ/giphy.gif" width="100" height="100">
@@ -26,6 +26,15 @@
   <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="100" height="100">
 </div>
 
+## Languages :
+
+<img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;
+<img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />&nbsp;&nbsp;
+<img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />&nbsp;&nbsp;
+<img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />&nbsp;&nbsp;
+<img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
+<img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
+<img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />&nbsp;&nbsp;
 
 ## 📊️&nbsp;Github Stats
 
@@ -35,17 +44,6 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityafaadil&theme=radical" alt="adityafaadil" />
 </a>
 
-## 🛠 Tech. Stacks & Tools
-
-### Languages :
-
-<img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;
-<img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />&nbsp;&nbsp;
-<img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />&nbsp;&nbsp;
-<img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />&nbsp;&nbsp;
-<img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
-<img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
-<img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />&nbsp;&nbsp;
 
 ### 📊 Weekly development breakdown
 
