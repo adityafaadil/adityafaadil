@@ -1,58 +1,28 @@
-<div align="center">
-  <h1>Hi there! I'm Fadil 👋</h1>
-</div>
+<h1 align="center">Hi 👋, I'm Fadila Aditya</h1>
+<h3 align="center">A junior AI/ML Developer</h3>
 
-<div align="center">
-  <img src="https://cdn.dribbble.com/users/318273/screenshots/3403867/media/f9adfe16e97bc6c2fe9a11ef960af085.gif" width"600" height="400">
-</div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adityafaadil&label=Profile%20views&color=0e75b6&style=flat" alt="adityafaadil" /> </p>
 
-## Powered by :
-<div align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="100" height="100">
-  <img src="https://media.giphy.com/media/UQJlZ2OcaCA2RLfGiZ/giphy.gif" width="100" height="100">
-  <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="100" height="100">
-  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="100" height="100">
-  <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="100" height="100">
-  <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100" height="100">
-  <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100" height="100">
-  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="100" height="100">
-</div>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityafaadil" alt="adityafaadil" /></a> </p>
 
+<p align="left"> <a href="https://twitter.com/adityafaadil" target="blank"><img src="https://img.shields.io/twitter/follow/adityafaadil?logo=twitter&style=for-the-badge" alt="adityafaadil" /></a> </p>
 
-## 📊️&nbsp;Github Stats
+- 🌱 I’m currently learning **Machine Learning and Flutter**
 
-<a href="https://github.com/adityafaadil">
-  <img alt="fadil's all Git commits" height="180em" src="https://github-readme-stats.vercel.app/api?username=adityafaadil&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img alt="fadil's most used languages" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityafaadil&layout=compact&theme=radical&hide=shards,shaderlab,hlsl,html,css&langs_count=6" />
-</a>
+- 📫 How to reach me **fadiljakarta11@gmail.com**
 
-### I'm a Single Fighter Developer!
+- ⚡ Fun fact **I think I am funny**
 
-- 🔭 I’m currently working on a ton of side project!
-- 🌱 I’m currently learning about Python, Machine Learning, and Flutter
-- 👯 I’m looking to collaborate with other developer
-- 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love travelling, gaming, and finding bug and create unfinished side project 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/adityafaadil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adityafaadil" height="30" width="40" /></a>
+</p>
 
-## 🛠 Tech. Stacks & Tools
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-### Languages :
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityafaadil&show_icons=true&locale=en&layout=compact" alt="adityafaadil" /></p>
 
-<img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;
-<img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />&nbsp;&nbsp;
-<img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />&nbsp;&nbsp;
-<img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />&nbsp;&nbsp;
-<img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
-<img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
-<img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />&nbsp;&nbsp;
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adityafaadil&show_icons=true&locale=en" alt="adityafaadil" /></p>
 
-### 📊 Weekly development breakdown
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-### 📫 Contact Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fadila-aditya/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/adityafaadil)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/adityafaadil/)
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityafaadil&" alt="adityafaadil" /></p>
