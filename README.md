@@ -6,6 +6,14 @@
   <img src="https://cdn.dribbble.com/users/318273/screenshots/3403867/media/f9adfe16e97bc6c2fe9a11ef960af085.gif" width"600" height="400">
 </div>
 
+### I'm a Single Fighter Developer!
+
+- 🔭 I’m currently working on a ton of side project!
+- 🌱 I’m currently learning about Python, Machine Learning, and Flutter
+- 👯 I’m looking to collaborate with other developer
+- 🥅 2022 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love travelling, gaming, and finding bug and create unfinished side project 
+
 ## Powered by :
 <div align="center">
   <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="100" height="100">
@@ -26,14 +34,6 @@
   <p><img alt="fadil's all Git commits" height="180em" src="https://github-readme-stats.vercel.app/api?username=adityafaadil&show_icons=true&theme=radical&include_all_commits=true&count_private=true" /></p>
    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityafaadil&theme=radical" alt="adityafaadil" /></p>
 </a>
-
-### I'm a Single Fighter Developer!
-
-- 🔭 I’m currently working on a ton of side project!
-- 🌱 I’m currently learning about Python, Machine Learning, and Flutter
-- 👯 I’m looking to collaborate with other developer
-- 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love travelling, gaming, and finding bug and create unfinished side project 
 
 ## 🛠 Tech. Stacks & Tools
 
