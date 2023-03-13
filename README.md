@@ -24,6 +24,7 @@
 <a href="https://github.com/adityafaadil">
   <img alt="fadil's all Git commits" height="180em" src="https://github-readme-stats.vercel.app/api?username=adityafaadil&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
   <img alt="fadil's most used languages" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityafaadil&layout=compact&theme=radical&hide=shards,shaderlab,hlsl,html,css&langs_count=6" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityafaadil&theme=radical" alt="adityafaadil" />
 </a>
 
 ### I'm a Single Fighter Developer!
