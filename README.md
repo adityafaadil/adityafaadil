@@ -1,4 +1,4 @@
-![Header](adityafaadil/github-header-image.png)
+![Header](github-header-image.png)
 
 <div align="center">
   <h1>Hi there! I'm Fadil 👋</h1>
