@@ -15,7 +15,7 @@
 
 ## 🛠 Tech. Stacks & Tools
 <div align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="100" height="100">
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="50" height="50">
   <img src="https://media.giphy.com/media/UQJlZ2OcaCA2RLfGiZ/giphy.gif" width="100" height="100">
   <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="100" height="100">
   <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="100" height="100">
