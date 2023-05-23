@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="https://cdn.dribbble.com/users/318273/screenshots/3403867/media/f9adfe16e97bc6c2fe9a11ef960af085.gif" width"600" height="400">
+</div>
+
+<div align="center">
   <h1>Hi there! I'm Fadil 👋</h1>
 </div>
 
