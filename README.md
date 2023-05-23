@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://cdn.dribbble.com/users/318273/screenshots/3403867/media/f9adfe16e97bc6c2fe9a11ef960af085.gif" width"600" height="400">
+  <img src="https://cdn.dribbble.com/users/318273/screenshots/3403867/media/f9adfe16e97bc6c2fe9a11ef960af085.gif" width"400" height="200">
 </div>
 
 ### I'm a Single Fighter Developer!
