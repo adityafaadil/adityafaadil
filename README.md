@@ -11,8 +11,7 @@
 - 🔭 I’m currently working on a ton of side project!
 - 🌱 I’m currently learning about Python, Machine Learning, and Flutter
 - 👯 I’m looking to collaborate with other developer
-- 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love travelling, gaming, and finding bug and create unfinished side project 
+- 🥅 2023 Goals: Contribute more to Open Source projects
 
 ## 🛠 Tech. Stacks & Tools
 <div align="center">
