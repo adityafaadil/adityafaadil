@@ -8,8 +8,8 @@
 
 ### I'm a Single Fighter Developer!
 
-- 🔭 I’m currently working on a ton of side project!
-- 🌱 I’m currently learning about Python, Machine Learning, and Flutter
+- 🔭 I’m currently studying computer science in university
+- 🌱 learning about Python, Machine Learning, and Flutter
 - 👯 I’m looking to collaborate with other developer
 - 🥅 2023 Goals: Contribute more to Open Source projects
 
