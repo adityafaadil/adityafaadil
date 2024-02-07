@@ -8,10 +8,10 @@
 
 ## I'm a Single Fighter Developer!
 
-### - 🔭 I’m currently studying computer science in university
-### - 🌱 learning about Python, Machine Learning, and Flutter
+### - 🔭 Fresh Graduate!!
+### - 🌱 learning about Python, R, Machine Learning & AI
 ### - 👯 I’m looking to collaborate with other developer
-### - 🥅 2023 Goals: Contribute more to Open Source projects
+### - 🥅 2024 Goals: Contribute more to Open Source projects
 
 ## 🛠 Tech. Stacks & Tools
 <div align="center">
