@@ -6,12 +6,12 @@
   <img src="https://cdn.dribbble.com/users/318273/screenshots/3403867/media/f9adfe16e97bc6c2fe9a11ef960af085.gif" width"600" height="400">
 </div>
 
-## I'm a Single Fighter Developer!
+## Solo Developer
 
-### - 🔭 Fresh Graduate!!
-### - 🌱 learning about Python, R, Machine Learning & AI
-### - 👯 I’m looking to collaborate with other developer
-### - 🥅 2024 Goals: Contribute more to Open Source projects
+### - 🔭 Fresh Graduate
+### - 🌱 learning about Python, R, Machine Learning, and Cloud
+### - 👯 Looking to collaborate with other developer
+### - 🥅 2025 Goals: still alive
 
 ## 🛠 Tech. Stacks & Tools
 <div align="center">
