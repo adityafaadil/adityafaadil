@@ -9,9 +9,9 @@
 ## Solo Developer
 
 ### - 🔭 Fresh Graduate
-### - 🌱 learning about Python, R, Machine Learning, and Cloud
+### - 🌱 learning about Python, SQL, Database, and Cloud
 ### - 👯 Looking to collaborate with other developer
-### - 🥅 2025 Goals: still alive
+### - 🥅 2025 Goals: still alive and get a job 
 
 ## 🛠 Tech. Stacks & Tools
 <div align="center">
