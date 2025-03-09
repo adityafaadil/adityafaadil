@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi there! I'm Fadil 👋</h1>
+  <h1>Hi Welcome!👋</h1>
 </div>
 
 <div align="center">
@@ -8,8 +8,8 @@
 
 ## Solo Developer
 
-### - 🔭 Fresh Graduate
-### - 🌱 learning about Python, SQL, Database, and Cloud
+### - 🔭 Junior Database Administrator
+### - 🌱 learning about Python, SQL, Database, Microsoft Azure and AWS
 ### - 👯 Looking to collaborate with other developer
 ### - 🥅 2025 Goals: still alive and get a job 
 
